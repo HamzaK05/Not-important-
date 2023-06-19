@@ -1,0 +1,23 @@
+Not important 
+
+
+Virus- import Cocoa
+
+class Virus {
+  
+    func create() {
+        // Code to create the virus
+    }
+    
+    func spread() {
+        // Code to spread the virus
+    }
+    
+    func infect() {
+        // Code to infect the system
+    }
+    
+    func destroy() {
+        // Code to destroy the system
+    }
+}
